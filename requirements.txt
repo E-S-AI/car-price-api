@@ -1,7 +1,7 @@
-fastapi
-uvicorn
-pandas
-joblib
-scikit-learn
-xgboost
-python-multipart
+fastapi==0.110.0
+uvicorn==0.29.0
+pandas==2.2.2
+joblib==1.4.0
+scikit-learn==1.4.2
+xgboost==2.0.3
+
